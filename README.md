@@ -24,6 +24,7 @@ https://twitter.com/yusuke_blog1026/status/1623935829377970176
 ![](https://img.shields.io/badge/TypeScript-v4.6.4-blue)
 ![](https://img.shields.io/badge/Mantine-v5.8.2-informational)
 ![](https://img.shields.io/badge/TailwindCSS-v3.2.4-9cf)
+<br />
 
 ## 主な機能
 
