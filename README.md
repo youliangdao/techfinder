@@ -14,7 +14,7 @@ https://techfinder.dev/
 
 ▼**告知ツイート**
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【個人開発】<br>個人開発に役立つ技術記事を簡単に検索・閲覧できるサービス「TechFinder」をリリースしました！<a href="https://t.co/NX2y2Z2XFW">https://t.co/NX2y2Z2XFW</a><br><br>特にポートフォリオ作りに悩んでいる <a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#駆け出しエンジニア</a> の皆さんに重宝するサービスとなってますので、ぜひ利用してみてください〜👏 <a href="https://t.co/zuRD4Ra6Ff">pic.twitter.com/zuRD4Ra6Ff</a></p>&mdash; ゆー (@yusuke_blog1026) <a href="https://twitter.com/yusuke_blog1026/status/1623935829377970176?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/yusuke_blog1026/status/1623935829377970176
 
 ---
 
@@ -25,11 +25,21 @@ https://techfinder.dev/
 ![](https://img.shields.io/badge/Mantine-v5.8.2-informational)
 ![](https://img.shields.io/badge/TailwindCSS-v3.2.4-9cf)
 
-## メイン機能
+## 主な機能
 
-### カテゴリ絞り込み機能
+### コア機能（カテゴリ絞り込み・ブックマーク+α）
 
-###
+| カテゴリ絞り込み                                                                                                                    | ブックマーク・いいね                                                                                                                | コメント                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Image from Gyazo](https://i.gyazo.com/f43ddd0aca232a7f5df0a193f51a73c0.gif)](https://gyazo.com/f43ddd0aca232a7f5df0a193f51a73c0) | [![Image from Gyazo](https://i.gyazo.com/8910bd2f80c2bf9e5f65e2cb351c3a38.gif)](https://gyazo.com/8910bd2f80c2bf9e5f65e2cb351c3a38) | [![Image from Gyazo](https://i.gyazo.com/001e2dd07b9512f77945cbdcfa0e25a4.gif)](https://gyazo.com/001e2dd07b9512f77945cbdcfa0e25a4)                        |
+| カテゴリアイコンをタップすることで、そのカテゴリに紐付いた記事一覧が表示されます。                                                  | 記事右下の各種ボタンをタップすることで、ブックマークといいねができます （**ログインユーザー限定**）                                 | コメントボタンをタップすると、モーダルが立ち上がり各記事についたコメントを閲覧できたり、コメントの投稿・編集・削除ができます。（**ログインユーザー限定**） |
+
+### ユーザー機能
+
+| ログイン                                                                                                                            | マイページ上で記事を管理                                                                                                            |
+| :---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [![Image from Gyazo](https://i.gyazo.com/670f1953ffa6efede6bec8c87b1af81a.png)](https://gyazo.com/670f1953ffa6efede6bec8c87b1af81a) | [![Image from Gyazo](https://i.gyazo.com/a3183825d24f38257c3f0b9d2e69fbfa.gif)](https://gyazo.com/a3183825d24f38257c3f0b9d2e69fbfa) |
+| ログインボタンを押すと、モーダルが立ち上がり Google ログインが可能になります。                                                      | マイページ上でブックマークやいいねした記事を管理することができます。                                                                |
 
 ## 使用技術
 
