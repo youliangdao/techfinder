@@ -1,0 +1,3 @@
+[submodule "techfinder_back"]
+	path = techfinder_back
+	url = https://github.com/youliangdao/techfinder_back.git
