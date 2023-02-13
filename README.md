@@ -49,6 +49,8 @@ https://twitter.com/yusuke_blog1026/status/1623935829377970176
 
 ---
 
+<br>
+
 ## 主な使用技術
 
 ### フロントエンド
@@ -91,16 +93,33 @@ https://twitter.com/yusuke_blog1026/status/1623935829377970176
 
 <br>
 
+---
+
+<br>
+
 ## インフラ構成図
 
 <img src="./assets/infra.png">
 
 <br>
 
-## ER 図・テーブル設計
+## ER 図
+
+<img src="./assets/stackdb-ER.drawio (1).png">
+
+<br>
+
+※テーブル設計の詳細は[こちら](https://gist.github.com/youliangdao/f1dfd8140407869385439da765b522e0)。
 
 <br>
 
 ## 画面遷移図
 
+[Figma](https://www.figma.com/file/GtneL5pSjUXBAGku4GmfWT/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0%3A1&t=JIuNQFneWGzArBi1-1)
+
+<br>
+
 ## コンポーネント設計
+
+- [Figma](https://www.figma.com/file/9nUtnlAPBiJH7bs5BGlk4f/Stack-Database-%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%83%8D%E3%83%B3%E3%83%88%E8%A8%AD%E8%A8%88?node-id=0%3A1&t=GP0RYsbtJfwCuYW5-1)
+- [Notion](https://noble-idea-563.notion.site/TechFinder-c35bc8f4bbbc4e21af05ef2b063c0fc4)
