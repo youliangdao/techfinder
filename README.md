@@ -107,7 +107,7 @@ https://twitter.com/yusuke_blog1026/status/1623935829377970176
 
 ## ER 図
 
-<img src="./assets/stackdb-ER.drawio (1).png">
+<img src="./assets/stackdb-ER.drawio (3).png">
 
 <br>
 
